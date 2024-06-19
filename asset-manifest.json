@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d0b7d9c.css",
-    "main.js": "/static/js/main.7b5b3e41.js",
+    "main.css": "/static/css/main.3b1a77a2.css",
+    "main.js": "/static/js/main.e63a860a.js",
     "static/media/hero-image-1.png": "/static/media/hero-image-1.33f10ca8d00cbcdb340e.png",
-    "static/media/header.jpg": "/static/media/header.2cb9b14bf49346eb410d.jpg",
+    "static/media/header.jpg": "/static/media/header.2932cb914707ebf74378.jpg",
     "static/media/hero-image-2.png": "/static/media/hero-image-2.876d72184b5448408fd8.png",
     "static/media/bg6.jpg": "/static/media/bg6.dc603b7416966b84ac68.jpg",
     "static/media/bg1.jpg": "/static/media/bg1.71a28027225b8ae945bb.jpg",
@@ -20,17 +20,15 @@
     "static/media/eva.jpg": "/static/media/eva.258d5c64c8708a5ce23b.jpg",
     "static/media/ryan.jpg": "/static/media/ryan.ca24473bc1e6d20bf0d1.jpg",
     "static/media/julie.jpg": "/static/media/julie.00733edf41a7831227f2.jpg",
-    "static/media/creative-tim-white-slim2.png": "/static/media/creative-tim-white-slim2.c9b2f68e52151075edf1.png",
     "static/media/avatar.jpg": "/static/media/avatar.21d108f80102dc685d9b.jpg",
     "static/media/nucleo-outline.eot": "/static/media/nucleo-outline.56814a6b7240045e1494.eot",
-    "static/media/invision-white-slim.png": "/static/media/invision-white-slim.292fa475599916d9cd96.png",
     "static/media/nucleo-outline.ttf": "/static/media/nucleo-outline.1102ed9b2d16dccdec05.ttf",
     "static/media/nucleo-outline.woff": "/static/media/nucleo-outline.1a1036e643f97457ec5f.woff",
     "static/media/nucleo-outline.woff2": "/static/media/nucleo-outline.802141dd0dcc63b21cbb.woff2",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.3d0b7d9c.css",
-    "static/js/main.7b5b3e41.js"
+    "static/css/main.3b1a77a2.css",
+    "static/js/main.e63a860a.js"
   ]
 }
